@@ -1,0 +1,10 @@
+C:\Users\Madiha\Downloads\OrientDB-NET.binary-master\OrientDB-NET.binary-master\src\Orient\Orient.Client\bin\Debug\Orient.Client.dll
+C:\Users\Madiha\Downloads\OrientDB-NET.binary-master\OrientDB-NET.binary-master\src\Orient\Orient.Client\bin\Debug\Orient.Client.pdb
+C:\Users\Madiha\Downloads\OrientDB-NET.binary-master\OrientDB-NET.binary-master\src\Orient\Orient.Client\obj\Debug\Orient.Client.csprojResolveAssemblyReference.cache
+C:\Users\Madiha\Downloads\OrientDB-NET.binary-master\OrientDB-NET.binary-master\src\Orient\Orient.Client\obj\Debug\Orient.Client.dll
+C:\Users\Madiha\Downloads\OrientDB-NET.binary-master\OrientDB-NET.binary-master\src\Orient\Orient.Client\obj\Debug\Orient.Client.pdb
+E:\Semester 1\ADB\Orient DB\Net Project\Import DataSet\Orient.Client\bin\Debug\Orient.Client.dll
+E:\Semester 1\ADB\Orient DB\Net Project\Import DataSet\Orient.Client\bin\Debug\Orient.Client.pdb
+E:\Semester 1\ADB\Orient DB\Net Project\Import DataSet\Orient.Client\obj\Debug\Orient.Client.csprojResolveAssemblyReference.cache
+E:\Semester 1\ADB\Orient DB\Net Project\Import DataSet\Orient.Client\obj\Debug\Orient.Client.dll
+E:\Semester 1\ADB\Orient DB\Net Project\Import DataSet\Orient.Client\obj\Debug\Orient.Client.pdb

@@ -1,0 +1,15 @@
+E:\Semester 1\ADB\Orient DB\Net Project\Import DataSet\Import DataSet\bin\Debug\Import DataSet.exe.config
+E:\Semester 1\ADB\Orient DB\Net Project\Import DataSet\Import DataSet\bin\Debug\Import DataSet.exe
+E:\Semester 1\ADB\Orient DB\Net Project\Import DataSet\Import DataSet\bin\Debug\Import DataSet.pdb
+E:\Semester 1\ADB\Orient DB\Net Project\Import DataSet\Import DataSet\bin\Debug\Orient.Client.dll
+E:\Semester 1\ADB\Orient DB\Net Project\Import DataSet\Import DataSet\obj\Debug\Import DataSet.exe
+E:\Semester 1\ADB\Orient DB\Net Project\Import DataSet\Import DataSet\obj\Debug\Import DataSet.pdb
+E:\Semester 1\ADB\Orient DB\Net Project\Import DataSet\Import DataSet\obj\Debug\Import DataSet.csprojResolveAssemblyReference.cache
+E:\Semester 1\ADB\Orient DB\Net Project\Import DataSet\Import DataSet\bin\Debug\Orient.Client.pdb
+E:\Semester 1\ADB\Orient DB\Net Project\Import DataSet - Copy\Import DataSet\bin\Debug\Import DataSet.exe.config
+E:\Semester 1\ADB\Orient DB\Net Project\Import DataSet - Copy\Import DataSet\bin\Debug\Import DataSet.exe
+E:\Semester 1\ADB\Orient DB\Net Project\Import DataSet - Copy\Import DataSet\bin\Debug\Import DataSet.pdb
+E:\Semester 1\ADB\Orient DB\Net Project\Import DataSet - Copy\Import DataSet\bin\Debug\Orient.Client.dll
+E:\Semester 1\ADB\Orient DB\Net Project\Import DataSet - Copy\Import DataSet\bin\Debug\Orient.Client.pdb
+E:\Semester 1\ADB\Orient DB\Net Project\Import DataSet - Copy\Import DataSet\obj\Debug\Import DataSet.exe
+E:\Semester 1\ADB\Orient DB\Net Project\Import DataSet - Copy\Import DataSet\obj\Debug\Import DataSet.pdb
